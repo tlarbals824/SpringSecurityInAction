@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sim</groupId>
-	<artifactId>ch01-ex1</artifactId>
+	<artifactId>ch02-ex1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ch01-ex1</name>
 	<description>ch01-ex1</description>
