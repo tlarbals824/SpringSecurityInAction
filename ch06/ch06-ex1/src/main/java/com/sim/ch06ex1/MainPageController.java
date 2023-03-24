@@ -29,8 +29,4 @@ public class MainPageController {
 		return "main";
 	}
 
-	@PostConstruct
-	public void test(){
-		log.info("bCryptPasswordEncoder: {}", bCryptPasswordEncoder.encode("12345"));
-	}
 }
